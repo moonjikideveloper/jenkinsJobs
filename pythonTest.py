@@ -1,1 +1,2 @@
-println ("Hello Python Test")
+# -*- coding: utf-8 -*-
+print ("Hello Python Test")
